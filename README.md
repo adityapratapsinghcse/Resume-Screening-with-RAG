@@ -191,7 +191,8 @@ Because developers collectively decided one universal standard would be too peac
 
 ## Resume Upload
 
-![Upload](ScreenShots/Job_Description.jpg)
+<img width="2846" height="1406" alt="Job Description" src="https://github.com/user-attachments/assets/6f70c2df-67de-46af-8bc2-bd3fc51f8451" />
+
 
 ---
 
