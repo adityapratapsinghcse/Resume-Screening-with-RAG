@@ -1,0 +1,16 @@
+Rahul Verma
+
+Education:
+B.Tech IT
+
+Skills:
+Python, HTML, CSS, JavaScript, MySQL, Git
+
+Projects:
+1. Created a blogging website using Flask.
+2. Built a basic CRUD API using Python and MySQL.
+
+Experience:
+Web Developer Intern
+- Worked on frontend development
+- Basic backend API creation

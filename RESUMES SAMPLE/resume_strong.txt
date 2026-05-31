@@ -1,0 +1,19 @@
+Aditya Sharma
+Email: aditya@email.com
+
+Education:
+B.Tech in Computer Science
+
+Skills:
+Python, Django, Flask, REST APIs, SQL, PostgreSQL, Git, Docker, AWS
+
+Projects:
+1. Built a REST API using Django for an E-commerce application.
+2. Developed a Flask microservice deployed using Docker.
+3. Created a Machine Learning model for sales prediction.
+
+Experience:
+Backend Developer Intern at TechSoft
+- Developed APIs in Django
+- Worked with PostgreSQL database
+- Used Git for version control
