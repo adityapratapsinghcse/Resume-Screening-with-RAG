@@ -1,4 +1,4 @@
-# AI Resume Shortlister
+<img width="2868" height="1506" alt="Homepage_UI" src="https://github.com/user-attachments/assets/1c14a6c2-576f-47f4-8ced-b9831922e657" /># AI Resume Shortlister
 
 An AI-powered resume shortlisting system that intelligently analyzes, retrieves, and ranks resumes based on job description relevance using Retrieval-Augmented Generation (RAG), semantic embeddings, and NLP techniques.
 
@@ -185,19 +185,19 @@ Because developers collectively decided one universal standard would be too peac
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](ScreenShots/Homepage_UI.jpg)
 
 ---
 
 ## Resume Upload
 
-![Upload](screenshots/upload.png)
+![Upload](ScreenShots/Homepage_UI.jpg)
 
 ---
 
 ## Candidate Ranking Output
 
-![Results](screenshots/results.png)
+![Results]ScreenShots/Homepage_UI.jpg)
 
 ---
 
