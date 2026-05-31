@@ -246,7 +246,7 @@ This project is developed for educational and research purposes.
 
 # Author
 
-## Gaureesh Keshari
+## Aditya Pratap Singh
 
 B.Tech CSE Student | AI & ML Enthusiast | Developer
 
